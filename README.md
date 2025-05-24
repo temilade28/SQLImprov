@@ -6,4 +6,4 @@ This repository showcases SQL projects I've worked on, analyzing datasets like S
 
 - **🏬 Superstore SQL Analysis**  
   Used SQL to calculate total inventory value, average ratings, and product category statistics.  
-  [Read the full project](./Superstore/README.md)
+
