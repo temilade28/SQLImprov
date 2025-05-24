@@ -2,8 +2,6 @@
 
 This project demonstrates my ability to explore and summarize retail product data using structured SQL queries. The dataset represents a simplified **superstore inventory**, with information about product categories, pricing, stock levels, and customer ratings.
 
-📊 [Live SQL Demo on DB Fiddle](https://www.db-fiddle.com/f/PvBAaQwEUSWAxZCsg4Vmx/0)
-
 ---
 
 ## 📁 Dataset Overview
