@@ -1,6 +1,6 @@
 # SQL Portfolio
 
-This repository showcases SQL projects I've worked on, analyzing datasets like Superstore and performing data exploration, aggregation, and insights with queries.
+This repository showcases SQL projects I've worked on, analyzing datasets and performing data exploration, aggregation, and insights with queries.
 
 ## 📁 Projects
 
