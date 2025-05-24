@@ -2,9 +2,8 @@
 
 This project demonstrates my ability to explore and summarize retail product data using structured SQL queries. The dataset represents a simplified **superstore inventory**, with information about product categories, pricing, stock levels, and customer ratings.
 
-📊 [Live SQL Demo on DB Fiddle](https://www.db-fiddle.com/f/PvBAaQwEUSWAxZCsg4Vmx/0)
-
 ---
+
 
 ## 📁 Dataset Overview
 
@@ -34,7 +33,16 @@ Use SQL to:
 
 ---
 
+## 📌 Skills Demonstrated
+
+- SQL Data Exploration  
+- Aggregations: `SUM()`, `AVG()`, `MIN()`, `MAX()`, `COUNT()`  
+- Sorting & Filtering  
+- Business insight derivation from tabular data
+
 ## 🛠️ SQL Queries & Key Insights
+
+---
 
 ### 1. 📦 Items Ordered by Price
 ```sql
@@ -84,15 +92,6 @@ ORDER BY average_rating DESC;
 ```
 
 ➡ **Insight**: The **highest-rated item** is the *Premium Coffee Maker* with a **4.9** average rating.
-
----
-
-## 📌 Skills Demonstrated
-
-- SQL Data Exploration  
-- Aggregations: `SUM()`, `AVG()`, `MIN()`, `MAX()`, `COUNT()`  
-- Sorting & Filtering  
-- Business insight derivation from tabular data
 
 ---
 
