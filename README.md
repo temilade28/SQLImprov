@@ -1,4 +1,6 @@
-# SQL Portfolio
+# Temilade's SQL PORTFOLIO
+
+####  Feel free to take a look and reach out if you have any questions.
 
 This repository showcases SQL projects I've worked on, analyzing datasets and performing data exploration, aggregation, and insights with queries.
 
@@ -21,3 +23,5 @@ Explored TV and movie data to identify title counts, oldest releases, director d
 
 ### 🎶 Chinook Digital Store Analysis  
 Examined a media store database to track sales by agent, customer invoices, purchased tracks, and annual revenue.
+
+###  Feel free to take a look and reach out if you have any questions.
