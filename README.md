@@ -1,6 +1,5 @@
 # Temilade's SQL PORTFOLIO
 
-####  Feel free to take a look and reach out if you have any questions.
 
 This repository showcases SQL projects I've worked on, analyzing datasets and performing data exploration, aggregation, and insights with queries.
 
